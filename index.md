@@ -32,13 +32,13 @@ Web / Batch / 業務システム開発の経験が大半で、その他 B to C �
 
 ## ⚔️ Tech Stack
 
-**言語**: Java / Kotlin / Python / Ruby / PHP / JavaScript / TypeScript / VB / VBScript
-**フレームワーク**: Spring / Flask / Rails / CakePHP / Vue.js / Node.js
+**言語**: Java / Kotlin / Python / Ruby / PHP / JavaScript / TypeScript / VB / VBScript  
+**フレームワーク**: Spring / Flask / Rails / CakePHP / Vue.js / Node.js  
 **クラウド**: AWS（VPC, ELB, ACM, EC2, Lambda, Amplify, S3, RDS, Dynamo DB, ECR, EKS, ECS, SES, SQS, Cloud Watch）  
 **ミドルウェア**: Tomcat, Apach, Nginx  
 **インフラ**: Docker / Linux / Windows Server  
-**開発手法**: Git / GitLab / GitHub / CI/CD / テスト自動化
-**AI**: Gemini / Chat GPT / Copilot
+**開発手法**: Git / GitLab / GitHub / CI/CD / テスト自動化  
+**AI**: Gemini / Chat GPT / Copilot  
 
 ---
 
